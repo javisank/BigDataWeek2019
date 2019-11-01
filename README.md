@@ -2,7 +2,7 @@
 Workshop Big Data Week BsAs 2019
 
 ## Intrucciones
-1 - Abrir el ejercicio e ingresar en el botón *Open in Colab* al inicio del notebook.
+1 - Abrir el ejercicio e ingresar a Google Colab con el botón *Open in Colab* al inicio del notebook.
 
 2 - Realizar una copia en el drive personal
 
