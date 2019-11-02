@@ -1,5 +1,5 @@
-# BigDataWeek2019
-Workshop Big Data Week BsAs 2019
+# Big Data Week Buenos Aires 2019
+Workshop: Deep Learning - RNN y LSTM
 
 ## Intrucciones
 1 - Abrir el ejercicio e ingresar a Google Colab con el botón *Open in Colab* al inicio del notebook.
